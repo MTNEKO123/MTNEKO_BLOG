@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh_CN">
-  <title>面条喵</title>
-  <subtitle>面条喵像闪电</subtitle>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh_TW">
+  <title>麵條喵</title>
+  <subtitle>麵條喵像閃電</subtitle>
   <link href="https://mtneko.top/" rel="alternate" type="text/html"/>
   <link href="https://mtneko.top/atom.xml" rel="self" type="application/atom+xml"/>
   <id>https://mtneko.top/</id>
   <updated>2026-11-21T00:00:00.000Z</updated>
   <entry>
-    <title>面条喵像闪电</title>
+    <title>麵條喵像閃電</title>
     <link href="https://mtneko.top/posts/mian-tiao-miao/" rel="alternate" type="text/html"/>
     <id>https://mtneko.top/posts/mian-tiao-miao/</id>
     <published>2026-11-21T00:00:00.000Z</published>
     <updated>2026-11-21T00:00:00.000Z</updated>
-    <summary>面条喵像闪电</summary>
-    <content type="html"><![CDATA[<p>面条喵像闪电</p>]]></content>
-    <author><name>面条喵</name></author>
+    <summary>麵條喵像閃電</summary>
+    <content type="html"><![CDATA[<p>麵條喵像閃電</p>]]></content>
+    <author><name>麵條喵</name></author>
   </entry>
 </feed>
